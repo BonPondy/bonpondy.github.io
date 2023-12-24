@@ -72,6 +72,14 @@ input, select, textarea {
 	appearance: none;
 }
 
+team-member {
+    margin: 20px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    max-width: 300px;
+    display: inline-block;
+}
 /* Basic */
 
 	@-ms-viewport {
